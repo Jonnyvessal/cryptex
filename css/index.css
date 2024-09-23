@@ -1,0 +1,120 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0);
+  display: flex;
+  flex-direction: column;
+  height: 1117px;
+  padding: 28.5px 0;
+  width: 1728px;
+}
+
+.index .frame-44 {
+  gap: 21px;
+  margin-left: 1.05px;
+  margin-top: 40px;
+}
+
+.index .overlap-group18 {
+  height: 290px;
+  margin-top: 4px;
+  position: relative;
+  width: 1066px;
+}
+
+.index .overlap-group9 {
+  height: 210px;
+  left: 209px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group10 {
+  height: 210px;
+  left: 283px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group11 {
+  height: 210px;
+  left: 358px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group12 {
+  height: 210px;
+  left: 432px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group13 {
+  height: 210px;
+  left: 507px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group14 {
+  height: 210px;
+  left: 581px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group15 {
+  height: 210px;
+  left: 656px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group16 {
+  height: 210px;
+  left: 730px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .overlap-group17 {
+  height: 210px;
+  left: 805px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.index .frame-43 {
+  gap: 21px;
+  margin-left: 1.05px;
+  margin-top: 4px;
+}
+
+.index .overlap-group19 {
+  height: 109px;
+  margin-top: 43px;
+  position: relative;
+  width: 1542px;
+}
+
+.index .frame-10 {
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.index .frame {
+  align-items: center;
+  display: inline-flex;
+  position: relative;
+}

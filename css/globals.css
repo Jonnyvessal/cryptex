@@ -1,0 +1,342 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:900");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6459391137478b733ce0c277.64593912bebb00f58fded869.Klqi0EQ.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title_4-1 {
+  height: 188px;
+  margin-right: 0;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 457px;
+}
+
+.x0x000000000000000000 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 47px;
+  min-height: 34px;
+  text-align: center;
+  width: 1493px;
+}
+
+.group-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 49px;
+  min-width: 1092px;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--norway-2);
+  border: 4px solid;
+  border-color: var(--dirt);
+  display: flex;
+  height: 54px;
+  min-width: 1090px;
+  padding: 6.5px 11px;
+}
+
+.ethereums-biggest-k {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  text-align: center;
+  width: 1060px;
+}
+
+.link {
+  cursor: pointer;
+  height: 44.83px;
+  position: relative;
+  width: 53.37px;
+}
+
+.overlap-group {
+  height: 45px;
+  position: relative;
+  width: 53px;
+}
+
+.rectangle-97 {
+  background-color: var(--norway-2);
+  border: 4px solid;
+  border-color: var(--dirt);
+  height: 49px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 57px;
+}
+
+.group-26 {
+  height: 15px;
+  left: 13px;
+  position: absolute;
+  top: 15px;
+  width: 27px;
+}
+
+.group-1 {
+  align-items: center;
+  display: flex;
+  height: 290px;
+  left: 0;
+  min-width: 1066px;
+  position: absolute;
+  top: 0;
+}
+
+.right {
+  height: 290px;
+  object-fit: cover;
+  width: 209px;
+}
+
+.rectangle-1 {
+  background-color: var(--dirt-2);
+  height: 262px;
+  margin-top: 0;
+  width: 648px;
+}
+
+.ellipse-1 {
+  height: 136px;
+  left: 5px;
+  position: absolute;
+  top: 151px;
+  width: 1055px;
+}
+
+.rectangle-109-2 {
+  height: 262px;
+  left: 209px;
+  top: 14px;
+}
+
+.rectangle-109 {
+  background-color: var(--norway);
+  border: 3px solid;
+  border-color: var(--black);
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 52px;
+}
+
+.group-48 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  left: 0;
+  min-height: 210px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.overlap-group-1 {
+  height: 107px;
+  position: relative;
+  width: 52px;
+}
+
+.rectangle-109-1 {
+  height: 55px;
+  left: 0;
+  top: 0;
+}
+
+.rectangle-110 {
+  background-color: var(--norway);
+  border: 3px solid;
+  border-color: var(--black);
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 52px;
+}
+
+.rectangle-112 {
+  background-color: var(--norway);
+  border: 3px solid;
+  border-color: var(--black);
+  height: 55px;
+  width: 52px;
+}
+
+.rectangle-109-3 {
+  height: 262px;
+  left: 283px;
+  top: 14px;
+}
+
+.rectangle-109-4 {
+  height: 262px;
+  left: 358px;
+  top: 14px;
+}
+
+.rectangle-109-5 {
+  height: 262px;
+  left: 432px;
+  top: 14px;
+}
+
+.rectangle-109-6 {
+  height: 262px;
+  left: 507px;
+  top: 14px;
+}
+
+.rectangle-109-7 {
+  height: 262px;
+  left: 581px;
+  top: 14px;
+}
+
+.rectangle-109-8 {
+  height: 262px;
+  left: 656px;
+  top: 14px;
+}
+
+.rectangle-109-9 {
+  height: 262px;
+  left: 730px;
+  top: 14px;
+}
+
+.rectangle-109-10 {
+  height: 262px;
+  left: 805px;
+  top: 14px;
+}
+
+.rectangle-110-1 {
+  background-color: var(--smoke);
+  border: 3px solid;
+  border-color: var(--black);
+  height: 55px;
+  left: 209px;
+  position: absolute;
+  top: 117px;
+  width: 648px;
+}
+
+.rectangle-98 {
+  background-color: var(--camarone);
+  border: 4px solid;
+  border-color: var(--black);
+  height: 41px;
+  left: 1386px;
+  position: absolute;
+  top: 3px;
+  width: 103px;
+}
+
+.rectangle-99 {
+  background-color: var(--camarone);
+  border: 4px solid;
+  border-color: var(--black);
+  height: 41px;
+  left: 81px;
+  position: absolute;
+  top: 3px;
+  width: 103px;
+}
+
+.rectangle-100 {
+  background-color: var(--camarone);
+  border: 4px solid;
+  border-color: var(--black);
+  height: 41px;
+  left: 200px;
+  position: absolute;
+  top: 38px;
+  width: 103px;
+}
+
+.rectangle-101 {
+  background-color: var(--norway-2);
+  border: 4px solid;
+  border-color: var(--dirt);
+  height: 37px;
+  left: 775px;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.the-cryptexholds-th {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1542px;
+}
+
+.span-1 {
+  line-height: 44px;
+}
+
+.span-2 {
+  line-height: 33px;
+}
+
+.frame-10-item {
+  height: 57px;
+  object-fit: cover;
+  position: relative;
+  width: 57px;
+}
+
+.rectangle-109-11 {
+  background-color: var(--norway);
+  border: 3px solid;
+  border-color: var(--black);
+  position: absolute;
+  width: 52px;
+}
+
+.rectangle-102 {
+  background-color: var(--smoke);
+  border: 3px solid;
+  border-color: var(--black);
+  height: 55px;
+  left: 209px;
+  position: absolute;
+  top: 117px;
+  width: 648px;
+}

@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Morris Roman-Bold';
+    src: url('../fonts/MorrisRomanBlack.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+:root { 
+  --apple: #51b134;
+  --black: #000000;
+  --camarone: #005b14;
+  --dell: #2b6419;
+  --dirt: #a17c52;
+  --dirt-2: #977a56;
+  --green: #12d70d;
+  --green-2: #01d804;
+  --norway: #a8bb9f;
+  --norway-2: #a1bd9f;
+  --smoke: #75836f80;
+  --white: #ffffff;
+ 
+  --font-size-l: 27px;
+  --font-size-m: 24px;
+  --font-size-xl: 37px;
+ 
+  --font-family-merriweather: "Merriweather", Helvetica;
+  --font-family-morris_roman-bold: "Morris Roman-Bold", Helvetica;
+}
+.merriweather-black-dell-24px {
+  color: var(--dell);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.morrisroman-bold-dell-37px {
+  color: var(--dell);
+  font-family: var(--font-family-morris_roman-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-black-green-24px {
+  color: var(--green);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.morrisroman-bold-white-37px {
+  font-family: var(--font-family-morris_roman-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.morrisroman-bold-apple-37px {
+  color: var(--apple);
+  font-family: var(--font-family-morris_roman-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-black-black-27px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.merriweather-black-white-24px {
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.merriweather-black-green-24px-2 {
+  color: var(--green-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.merriweather-black-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}

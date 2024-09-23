@@ -1,0 +1,143 @@
+/* screen - down-c3 */
+
+.down-c3 {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0);
+  display: flex;
+  flex-direction: column;
+  height: 1117px;
+  padding: 28.5px 0;
+  width: 1728px;
+}
+
+.down-c3 .frame-44 {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  margin-left: 1.05px;
+  margin-top: 40px;
+  position: relative;
+}
+
+.down-c3 .overlap-group10 {
+  height: 290px;
+  margin-top: 4px;
+  position: relative;
+  width: 1066px;
+}
+
+.down-c3 .overlap-group1 {
+  height: 210px;
+  left: 209px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .overlap-group2 {
+  height: 210px;
+  left: 283px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .frame-42 {
+  height: 210px;
+  left: 358px;
+  position: absolute;
+  top: 14px;
+  transform: translate(0, 0px);
+  width: 52px;
+}
+
+.down-c3 .frame-42.animate-enter4 {
+  animation: animate-enter4-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  transform: translate(0, 0px);
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 1;
+transform: translate(0, 0px);
+}
+to{opacity: 1;
+transform: translate(0,52px);
+}
+}
+
+.down-c3 .overlap-group3 {
+  height: 210px;
+  position: relative;
+}
+
+.down-c3 .overlap-group4 {
+  height: 210px;
+  left: 432px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .overlap-group5 {
+  height: 210px;
+  left: 507px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .overlap-group6 {
+  height: 210px;
+  left: 581px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .overlap-group7 {
+  height: 210px;
+  left: 656px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .overlap-group8 {
+  height: 210px;
+  left: 730px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .overlap-group9 {
+  height: 210px;
+  left: 805px;
+  position: absolute;
+  top: 14px;
+  width: 52px;
+}
+
+.down-c3 .frame-43 {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  margin-left: 1.05px;
+  margin-top: 4px;
+  position: relative;
+}
+
+.down-c3 .overlap-group11 {
+  height: 109px;
+  margin-top: 43px;
+  position: relative;
+  width: 1542px;
+}
+
+.down-c3 .frame-10 {
+  align-items: center;
+  display: inline-flex;
+  gap: 30px;
+  margin-top: 32px;
+  position: relative;
+}

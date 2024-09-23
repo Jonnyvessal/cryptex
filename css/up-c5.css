@@ -1,0 +1,143 @@
+/* screen - up-c5 */
+
+.up-c5 {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0);
+  display: flex;
+  flex-direction: column;
+  height: 1117px;
+  padding: 28.5px 0;
+  width: 1728px;
+}
+
+.up-c5 .frame-44 {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  margin-left: 1.05px;
+  margin-top: 40px;
+  position: relative;
+}
+
+.up-c5 .overlap-group10 {
+  height: 290px;
+  margin-top: 4px;
+  position: relative;
+  width: 1066px;
+}
+
+.up-c5 .overlap-group1 {
+  height: 210px;
+  left: 209px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .overlap-group2 {
+  height: 210px;
+  left: 283px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .overlap-group3 {
+  height: 210px;
+  left: 358px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .overlap-group4 {
+  height: 210px;
+  left: 432px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .frame-42 {
+  height: 210px;
+  left: 507px;
+  position: absolute;
+  top: 66px;
+  transform: translate(0, 0px);
+  width: 52px;
+}
+
+.up-c5 .frame-42.animate-enter16 {
+  animation: animate-enter16-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  transform: translate(0, 0px);
+}
+
+@keyframes animate-enter16-frames {
+  from{opacity: 1;
+transform: translate(0, 0px);
+}
+to{opacity: 1;
+transform: translate(0,-52px);
+}
+}
+
+.up-c5 .overlap-group5 {
+  height: 210px;
+  position: relative;
+}
+
+.up-c5 .overlap-group6 {
+  height: 210px;
+  left: 581px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .overlap-group7 {
+  height: 210px;
+  left: 656px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .overlap-group8 {
+  height: 210px;
+  left: 730px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .overlap-group9 {
+  height: 210px;
+  left: 805px;
+  position: absolute;
+  top: 66px;
+  width: 52px;
+}
+
+.up-c5 .frame-43 {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  margin-left: 1.05px;
+  margin-top: 4px;
+  position: relative;
+}
+
+.up-c5 .overlap-group11 {
+  height: 109px;
+  margin-top: 43px;
+  position: relative;
+  width: 1542px;
+}
+
+.up-c5 .frame-10 {
+  align-items: center;
+  display: inline-flex;
+  gap: 30px;
+  margin-top: 32px;
+  position: relative;
+}

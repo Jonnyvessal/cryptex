@@ -1,0 +1,50 @@
+.cryptex-overlay {
+  position: absolute;
+  top: 480px; /* Use pixels for a fixed vertical position */
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Only shift horizontally, no vertical translation */
+  z-index: 111;
+  width: 100%; /* Full width */
+  height: auto; /* Adjust height as needed */
+  max-width: 800px; /* Ensure max width */
+  margin: 0 auto;
+}
+
+
+.js-cryptex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Full width to scale with the background */
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 26px; /* Adjust margin for responsive spacing between columns */
+}
+
+.elem {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%; /* Let the width scale with the column */
+  height: 100%; /* Let the height scale with the column */
+  box-sizing: border-box;
+  font-size: 24px; /* Fixed font size so it doesn't shrink */
+  text-align: center;
+  margin: 14px 0;
+}
+
+.up-arrow, .down-arrow {
+  visibility: none; /* This hides the unwanted boxes */
+}
+
+.reset {
+  margin-left: 5px;
+  margin-top: 5px;
+}
